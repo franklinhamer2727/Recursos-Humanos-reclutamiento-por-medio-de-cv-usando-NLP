@@ -10,6 +10,47 @@ El reclutamiento predictivo utiliza el Procesamiento del Lenguaje Natural (NLP) 
 
 
 ## Resultados
+    Persona: {'habilidades': [[0.7374238967895508, 'knowledge'], [0.7396280765533447, 'knowledge']], 'experiencia': [], 'count_experiencia': 0, 'count_habilidades': 2}
+    Suma de habilidades: 1.4770519733428955
+    Media de habilidades: 0.7385259866714478
+    Suma de experiencia: 0
+    Media de experiencia: 0
+    --------------------------------------------------
+    Persona: {'habilidades': [], 'experiencia': [], 'count_experiencia': 0, 'count_habilidades': 0}
+    Suma de habilidades: 0
+    Media de habilidades: 0
+    Suma de experiencia: 0
+    Media de experiencia: 0
+    --------------------------------------------------
+    Persona: {'habilidades': [[0.7374238967895508, 'knowledge'], [0.7396280765533447, 'knowledge']], 'experiencia': [], 'count_experiencia': 0, 'count_habilidades': 2}
+    Suma de habilidades: 1.4770519733428955
+    Media de habilidades: 0.7385259866714478
+    Suma de experiencia: 0
+    Media de experiencia: 0
+    --------------------------------------------------
+    Persona: {'habilidades': [], 'experiencia': [], 'count_experiencia': 0, 'count_habilidades': 0}
+    Suma de habilidades: 0
+    Media de habilidades: 0
+    Suma de experiencia: 0
+    Media de experiencia: 0
+    --------------------------------------------------
+    Persona: {'habilidades': [], 'experiencia': [], 'count_experiencia': 0, 'count_habilidades': 0}
+    Suma de habilidades: 0
+    Media de habilidades: 0
+    Suma de experiencia: 0
+    Media de experiencia: 0
+    --------------------------------------------------
+    Persona: {'habilidades': [[0.7327536344528198, 'service'], [0.7120773196220398, 'professional'], [0.7791879177093506, 'service']], 'experiencia': [[0.9997559189796448, 'operations'], [0.9996801018714905, 'conducting']], 'count_experiencia': 2, 'count_habilidades': 3}
+    Suma de habilidades: 2.22401887178421
+    Media de habilidades: 0.7413396239280701
+    Suma de experiencia: 1.9994360208511353
+    Media de experiencia: 0.9997180104255676
+    --------------------------------------------------
+    Persona: {'habilidades': [[0.7141945958137512, 'technical'], [0.7594356536865234, 'technical']], 'experiencia': [], 'count_experiencia': 0, 'count_habilidades': 2}
+    Suma de habilidades: 1.4736302495002747
+    Media de habilidades: 0.7368151247501373
+    Suma de experiencia: 0
+    Media de experiencia: 0
 
 
     Suma de Habilidades: Se observa una variabilidad en los niveles de habilidades entre las personas representadas. Algunos individuos muestran una suma de habilidades alta, indicando un fuerte conocimiento en las áreas específicas, mientras que otros no presentan datos, lo que puede reflejar falta de información o menor nivel de habilidades.
