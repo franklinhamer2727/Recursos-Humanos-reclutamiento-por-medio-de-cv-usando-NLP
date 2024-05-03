@@ -27,7 +27,7 @@ def aplicar_modelo(arr_values, modelo):
     palabras_cercanas = None
     array_respuestas = []
     for i in arr_values:
-        print(i)
+
         if i in modelo.wv.key_to_index:  # Verificar si la palabra está en el vocabulario
             palabras_cercanas = modelo.wv.most_similar(i, topn=10)
             array_respuestas.append(palabras_cercanas)
@@ -49,7 +49,7 @@ def procesos_ejecucion():
     return  palabras_cercanas_experiencia, palabras_cercanas_habilidades
 if __name__ == '__main__':
     palabras_cercanas_experiencia, palabras_cercanas_habilidades = procesos_ejecucion()
-    print(palabras_cercanas_experiencia)
+
 
 
 
